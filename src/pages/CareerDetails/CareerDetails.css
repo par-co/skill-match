@@ -1,0 +1,17 @@
+.career-details {
+  width: 90%;
+  margin: 0 auto 3rem;
+  max-width: 50rem;
+  padding: 1rem 1rem 1rem;
+  background-color: var(--gold-light);
+  border-radius: 5px;
+}
+
+.career-details .description {
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+  font-size: 1rem;
+  color: var(--text-dark);
+  overflow-wrap: anywhere;
+}

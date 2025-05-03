@@ -1,0 +1,26 @@
+.careers {
+  width: 90%;
+  margin: 0 auto 3rem;
+  max-width: 50rem;
+  padding: 0 1rem 1.5rem;
+  background-color: var(--gold-light);
+  border-radius: 5px;
+}
+
+.careers h2 {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem 1rem 0rem;
+  font-size: 1.5rem;
+  color: var(--text-dark);
+  overflow-wrap: anywhere;
+}
+
+.careers > p {
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem 1rem 2rem;
+  font-size: 1rem;
+  color: var(--text-dark);
+  overflow-wrap: anywhere;
+}

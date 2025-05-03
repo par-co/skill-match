@@ -1,0 +1,34 @@
+.bullet-points {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 50rem;
+  padding: 0 1rem 1rem;
+  background-color: var(--gold-light);
+  border-radius: 5px;
+}
+
+.bullet-points h3 {
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem 0rem 0rem;
+  font-size: 1.1rem;
+  color: var(--text-dark);
+  overflow-wrap: anywhere;
+}
+
+.bullet-points ul {
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 0.5rem;
+  padding-left: 1.5rem;
+  overflow-wrap: anywhere;
+}
+
+.bullet-point {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0.9rem 0rem 0;
+  font-size: 1rem;
+  color: var(--text-dark);
+  overflow-wrap: anywhere;
+}

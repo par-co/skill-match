@@ -1,0 +1,28 @@
+.career-card {
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.career-card-title {
+  padding-bottom: 0.5rem;
+  font-size: 1.2rem;
+  overflow-wrap: anywhere;
+  color: var(--text-dark);
+}
+
+.career-card .icon-and-tag {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.3rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem 1rem 0;
+}
+
+.career-card .tag {
+  font-size: 1rem;
+  color: var(--text-dark);
+  overflow-wrap: anywhere;
+}
